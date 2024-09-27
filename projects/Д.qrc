@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Н">
+    <file>1639879409_29-koshka-top-p-kotikov-smeshnikh-i-nyashnikh-29.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>

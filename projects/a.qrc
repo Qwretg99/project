@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="r">
+    <file>1637796071_22-koshka-top-p-pushistie-kotiki-28.jpg</file>
+  </qresource>
+</RCC>
